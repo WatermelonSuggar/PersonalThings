@@ -18,6 +18,12 @@ SIMULACIONES A ANALIZAR:
 
 **Código modificado**
 
+
+![image](https://github.com/user-attachments/assets/bf789bde-02f1-4354-90bd-2d7b5c9e6f18)
+
+
+![image](https://github.com/user-attachments/assets/4a0d0951-2e23-4567-9972-ef2786ccd7a6)
+
 [Aquí](https://editor.p5js.org/WatermelonSuggar/sketches/xASgHG0km)
 
 > 🌳Vas a gestionar la creación y la desaparición de las partículas y la memoria. Explica cómo lo hiciste.
